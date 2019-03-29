@@ -4,7 +4,7 @@
 
 FROM toolshed/requirements
 
-MAINTAINER kpbioteam, kpbioteam@gmail.com
+MAINTAINER Björn A. Grüning, bjoern.gruening@gmail.com
 
 ARG GALAXY_RELEASE
 ARG GALAXY_REPO
