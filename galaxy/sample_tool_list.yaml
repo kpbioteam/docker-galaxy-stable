@@ -9,3 +9,32 @@ tools:
   tool_panel_section_label: 'New Converters'
   revisions:
   - '0b4e36026794'  # v1.1.0
+- name: ewastools
+  owner: kpbioteam
+  tool_panel_section_label: "Epigenetics"
+  tool_shed_url: https://toolshed.g2.bx.psu.edu
+  
+- name: chipeakanno_annopeaks
+  owner: kpbioteam
+  tool_panel_section_label: "Epigenetics"
+  tool_shed_url: https://testtoolshed.g2.bx.psu.edu/
+  
+- name: clusterprofiler_bitr
+  owner: kpbioteam
+  tool_panel_section_label: "Epigenetics"
+  tool_shed_url: https://testtoolshed.g2.bx.psu.edu/
+  
+- name: clusterprofiler_go
+  owner: kpbioteam
+  tool_panel_section_label: "Epigenetics"
+  tool_shed_url: https://testtoolshed.g2.bx.psu.edu/
+  
+- name: fastq_quality_filter
+  owner: devteam
+  tool_panel_section_label: "Fastq Manipulation"
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+  
+- name: fastqc
+  owner: devteam
+  tool_panel_section_label: "Fastq Manipulation"
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
